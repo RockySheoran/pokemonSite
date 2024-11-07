@@ -3,6 +3,15 @@
 This project examines the Pokémon franchise, focusing on its diverse creatures, gameplay strategies, cultural significance, and the collectible card game, showcasing its lasting influence in gaming and popular culture.                                                                                                                      
 https://pokemonking.netlify.app/
 
+## Sure! Here’s a condensed version:
+
+Species Name: Pokémon's name.                                                                                                
+Speed: How fast it is in battle.                                                                             
+Weight: Its mass.                                                  
+Experience: How much XP it has.                                     
+Abilities: Passive effects it has.                                
+Attack: Its power or damage potential.                              
+Height: Its size.                           
 ## Features
 
 - [ ] **Modern UI/UX**: Intuitive, responsive design for a seamless shopping experience.
